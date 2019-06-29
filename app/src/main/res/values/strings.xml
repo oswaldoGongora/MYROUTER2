@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MY ROUTER</string>
+    <string name="title_activity_plan">Map</string>
+    <string name="ingresa">Ingresa un email</string>
+    <string name="Ingresa_contrseña">Ingresa una Contraseña</string>
+    <string name="registro">Registro Usuario</string>
+    <string name="title_activity_ca_pre">Map</string>
+    <string name="title_activity_san_miguel">Map</string>
+    <string name="title_activity_indeco">Map</string>
+    <string name="title_activity_vister">Map</string>
+    <string name="title_activity_mapa">Map</string>
+
+</resources>
